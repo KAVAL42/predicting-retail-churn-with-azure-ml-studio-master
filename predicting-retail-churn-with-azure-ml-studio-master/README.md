@@ -1,0 +1,3 @@
+- Using Azure ML Studio, a predictive model was developed to identify probable retail churn, with an accuracy rate of 88%. 
+- Used machine learning algorithms to analyze customer data and implemented proactive retention methods to cut 20% of churn rates.
+- Increased customer loyalty and retention by 15% by training, evaluating, and deploying models using Azure ML Studio.
